@@ -7,7 +7,7 @@
 
 <body>
     <?php
-        echo "Olá, mundo do PHP o.o";
+        echo "Olá, mundo";
     ?>
 </body>
 
