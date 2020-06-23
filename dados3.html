@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+
+<div>
+    <form method="get" action="dados3.php">
+
+        <label for="itxt">Texto a ser alterado:</label>
+        <input id="itxt" type="text" name="texto"><br>
+        <label for="itam">Tamanho</label>
+
+        <select name="selecionado" id="itam">
+            <option value="8">8 pts</option>
+            <option value="10">10 pts</option>
+            <option value="12">12 pts</option>
+            <option value="14">14 pts</option>
+        </select><br>
+
+        <label for="icor">Cor:</label>
+        <input id="icor" type="color" name="cor"><br>
+
+        <input type="submit" value="Gerar">
+
+    </form>
+</div>
+</body>
+</html>
