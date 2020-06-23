@@ -2,7 +2,6 @@
 <html lang="pt-br">
 
 <head>
-    <title>Olá mundo</title>
     <link rel="stylesheet" href="estilo.css">
 </head>
 
